@@ -7,7 +7,7 @@ install_requires = ['Cython==3.0.3','responder','graphql-core==2.3.2','graphene=
 
 setuptools.setup(
     name="tableqa", # Replace with your own username
-    version="0.0.3",
+    version="0.0.4",
     author="Abhijith Neil Abraham, Fariz Rahman",
     author_email="abhijithneilabrahampk@gmail.com,farizrahman4u@gmail.com",
     description="Tool for querying natural language on tabular data",
